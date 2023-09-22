@@ -1,6 +1,6 @@
 ---
 title: "Lab 00 - Hello IDS!"
-author: "INSERT YUR NAME HERE"
+author: "Max Socker"
 date: "`r Sys.Date()`"
 output: html_document
 ---
